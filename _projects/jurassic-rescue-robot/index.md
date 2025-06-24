@@ -17,7 +17,7 @@ main-image: /images/robot_front.jpg
 
 > A semi-autonomous Jurassic-themed robot designed for real-world rescue challenges under strict hardware constraints.
 
-![Robot Demo](images/robot_front.jpg)
+![Robot Demo](images/award_robot.jpg)
 
 ---
 
