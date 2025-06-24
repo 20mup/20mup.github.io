@@ -92,7 +92,7 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 ---
 
 ## 🏛️ Used In  
-MREN 303: Mechatronics Systems, Queen’s University
+MREN 303: Mechatronics Design, Queen’s University, Kingston
 
 ---
 
