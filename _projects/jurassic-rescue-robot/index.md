@@ -3,7 +3,7 @@ layout: post
 title: Jurassic Rescue Robot
 description: Semi-autonomous robot designed to press a button and retrieve a figure in a Jurassic-themed competition.
 skills:
-  - Python
+  - MicroPython
   - Arduino
   - CAD (SolidWorks)
   - Embedded Systems
