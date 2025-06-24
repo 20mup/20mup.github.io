@@ -17,7 +17,7 @@ main-image: /images/robot_front.jpg
 
 > A semi-autonomous Jurassic-themed robot designed for real-world rescue challenges under strict hardware constraints.
 
-![Robot Demo](images/award_robot.jpg)
+![Robot Demo](/assets/images/jurassic-rescue/award_robot.jpg)
 
 ---
 
@@ -67,11 +67,11 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 
 | Front | Side | Back |
 |-------|------|------|
-| ![Front](images/robot_front.jpg) | ![Side](images/robot_side.jpg) | ![Back](images/robot_back.jpg) |
+| ![Front](/assets/images/jurassic-rescue/robot_front.jpg) | ![Side](/assets/images/jurassic-rescue/robot_side.jpg) | ![Back](/assets/images/jurassic-rescue/robot_back.jpg) |
 
 | Award | Circuit | Gameboard |
 |-------|---------|-----------|
-| ![Award](images/award_robot.jpg) | ![Schematic](images/electrical_schematic.png) | ![Gameplay](images/gameboard_middle.webp) |
+| ![Award](/assets/images/jurassic-rescue/award_robot.jpg) | ![Schematic](/assets/images/jurassic-rescue/electrical_schematic.png) | ![Gameplay](/assets/images/jurassic-rescue/gameboard_middle.webp) |
 
 ---
 
