@@ -67,16 +67,16 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 
 <!-- Front / Side / Back -->
 <p align="center">
-  <img src="/assets/images/jurassic-rescue/robot_front.jpg" alt="Front" width="250"/>
-  <img src="/assets/images/jurassic-rescue/robot_side.jpg" alt="Side" width="250"/>
-  <img src="/assets/images/jurassic-rescue/robot_back.jpg" alt="Back" width="250"/>
+  <img src="/assets/images/jurassic-rescue/robot_front.jpg" alt="Front" width="220"/>
+  <img src="/assets/images/jurassic-rescue/robot_side.jpg" alt="Side" width="220"/>
+  <img src="/assets/images/jurassic-rescue/robot_back.jpg" alt="Back" width="220"/>
 </p>
 
 <!-- Award / Circuit / Gameboard -->
 <p align="center">
-  <img src="/assets/images/jurassic-rescue/award_robot.jpg" alt="Award" width="250"/>
-  <img src="/assets/images/jurassic-rescue/electrical_schematic.png" alt="Schematic" width="250"/>
-  <img src="/assets/images/jurassic-rescue/gameboard_middle.webp" alt="Gameplay" width="250"/>
+  <img src="/assets/images/jurassic-rescue/award_robot.jpg" alt="Award" width="220"/>
+  <img src="/assets/images/jurassic-rescue/electrical_schematic.png" alt="Schematic" width="220"/>
+  <img src="/assets/images/jurassic-rescue/gameboard_middle.webp" alt="Gameplay" width="220"/>
 </p>
 
 ---
