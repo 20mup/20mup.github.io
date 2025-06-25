@@ -67,11 +67,11 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 
 | Front | Side | Back |
 |-------|------|------|
-| <img src="/assets/images/jurassic-rescue/robot_front.jpg" width="150"/> | <img src="/assets/images/jurassic-rescue/robot_side.jpg" width="150"/> | <img src="/assets/images/jurassic-rescue/robot_back.jpg" width="150"/> |
+| <img src="/assets/images/jurassic-rescue/robot_front.jpg" width="250"/> | <img src="/assets/images/jurassic-rescue/robot_side.jpg" width="250"/> | <img src="/assets/images/jurassic-rescue/robot_back.jpg" width="250"/> |
 
 | Award | Circuit | Gameboard |
 |-------|---------|-----------|
-| <img src="/assets/images/jurassic-rescue/award_robot.jpg" width="150"/> | <img src="/assets/images/jurassic-rescue/electrical_schematic.png" width="150"/> | <img src="/assets/images/jurassic-rescue/gameboard_middle.webp" width="150"/> |
+| <img src="/assets/images/jurassic-rescue/award_robot.jpg" width="250"/> | <img src="/assets/images/jurassic-rescue/electrical_schematic.png" width="250"/> | <img src="/assets/images/jurassic-rescue/gameboard_middle.webp" width="250"/> |
 
 ---
 
