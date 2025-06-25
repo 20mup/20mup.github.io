@@ -15,7 +15,6 @@ main-image: /images/aiva_hero.jpg
 # 🧠 AIVA — AI Voice Assistant for Enterprises
 
 > AIVA (AI Voice Assistant) is a generative AI receptionist that listens, understands, and speaks — built during my internship at Systems Limited, Pakistan’s largest IT company.
-
 <img src="/assets/images/aiva_chat.png" alt="AIVA Interface Preview" width="650"/>
 
 ---
