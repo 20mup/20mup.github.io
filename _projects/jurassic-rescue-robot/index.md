@@ -67,11 +67,11 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 
 | Front | Side | Back |
 |-------|------|------|
-| <img src="/assets/images/jurassic-rescue/robot_front.jpg" width="200"/> | <img src="/assets/images/jurassic-rescue/robot_side.jpg" width="200"/> | <img src="/assets/images/jurassic-rescue/robot_back.jpg" width="200"/> |
+| <img src="/assets/images/jurassic-rescue/robot_front.jpg" width="150"/> | <img src="/assets/images/jurassic-rescue/robot_side.jpg" width="150"/> | <img src="/assets/images/jurassic-rescue/robot_back.jpg" width="150"/> |
 
 | Award | Circuit | Gameboard |
 |-------|---------|-----------|
-| <img src="/assets/images/jurassic-rescue/award_robot.jpg" width="200"/> | <img src="/assets/images/jurassic-rescue/electrical_schematic.png" width="200"/> | <img src="/assets/images/jurassic-rescue/gameboard_middle.webp" width="200"/> |
+| <img src="/assets/images/jurassic-rescue/award_robot.jpg" width="150"/> | <img src="/assets/images/jurassic-rescue/electrical_schematic.png" width="150"/> | <img src="/assets/images/jurassic-rescue/gameboard_middle.webp" width="150"/> |
 
 <span style="font-size: 12px">Front / Side / Back views of robot and electronics during testing and gameplay</span>
 
