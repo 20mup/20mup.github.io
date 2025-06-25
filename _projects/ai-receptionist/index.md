@@ -1,92 +1,83 @@
 ---
 layout: post
-title: AI Receptionist — Voice-Enabled Generative AI Assistant
-description: A solo AI/ML project that acts as a voice-interactive AI receptionist using Whisper, LangChain, and ElevenLabs, trained on 100+ pages of company data.
+title: AIVA — AI Voice Assistant for Enterprises
+description: Voice-interactive AI receptionist built with Whisper, LangChain, and ElevenLabs to answer company questions in real-time.
 skills:
-  - Whisper
-  - LangChain
-  - FAISS
-  - ElevenLabs
+  - Whisper (STT)
+  - GPT-3.5 + LangChain
+  - ElevenLabs (TTS)
   - Streamlit
-  - Web scraping
-  - GPT-3.5
-  - Python
-main-image: /images/ai-receptionist-main.jpg
+  - Web Scraping
+  - FAISS
+main-image: /images/aiva_hero.jpg
 ---
 
-## 📺 Demo
+# 🧠 AIVA — AI Voice Assistant for Enterprises
 
-🎥 [Watch the recorded demo](https://drive.google.com/file/d/1JInIiivD3RBrqDqMrg24oT3hcPp_cvXB/view)
+> AIVA (AI Voice Assistant) is a generative AI receptionist that listens, understands, and speaks — built during my internship at Systems Limited, Pakistan’s largest IT company.
+
+<img src="/assets/images/aiva/hero_preview.png" alt="AIVA Interface Preview" width="400"/>
 
 ---
 
-## 🧠 Why I Built This
+## 🚀 TL;DR  
+**AIVA** is a voice-based receptionist trained on 100+ real company webpages. You ask a question out loud — it listens via Whisper, searches company info with LangChain + FAISS, and responds using ElevenLabs in a natural voice.
 
-Receptionists are often the first point of contact for a business — but most chatbots today are limited to static FAQs and clunky interfaces.
+---
 
-**This project reimagines that role using cutting-edge generative AI:**
-- It understands natural spoken language using Whisper (OpenAI)
-- It’s trained on real company knowledge using LangChain and FAISS
-- It speaks back fluently using ElevenLabs TTS
-- It’s adaptable to any company, instantly becoming their voice
+## 🧩 Problem / 💡 Solution
 
-> This was my first-ever project in AI/ML, and I completed it solo in just 4 weeks — from idea to deployment-ready prototype.
+**Problem:** Static website chatbots are outdated, rigid, and text-only.  
+**Solution:** A generative AI voice assistant that:
+- Understands speech using OpenAI Whisper  
+- Retrieves real-time answers from company content  
+- Responds naturally via ElevenLabs TTS
 
 ---
 
 ## ✨ Key Features
 
-✅ Voice-to-voice interaction (speak and get a spoken answer)  
-✅ Trained on over **100+ pages of company data**  
-✅ Real-time transcription + response using LLM  
-✅ Web UI built in Streamlit  
-✅ Modular and fully open-source
+- 🎙️ Voice-to-voice interaction (talk to AIVA, it talks back)
+- 🔍 Knowledge retrieval from 100+ scraped webpages
+- 🧠 GPT-3.5 via LangChain with memory for follow-up context
+- 💬 Web interface with both voice and text input (Streamlit)
+- 🧩 Modular pipeline, adaptable to any company with a website
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack & Tools
 
-| Component | Tool |
-|----------|------|
-| Speech to Text | [Whisper](https://github.com/openai/whisper) |
-| Vector Store + Retrieval | FAISS + LangChain |
-| Text to Speech | [ElevenLabs](https://www.elevenlabs.io/) |
-| UI | Streamlit |
-| Data Source | Web scraping from [Systems Limited](https://www.systemsltd.com/) |
-| Language Model | OpenAI GPT-3.5 via LangChain |
+![Whisper](https://img.shields.io/badge/Whisper-OpenAI-blue?style=flat)
+![GPT-3.5](https://img.shields.io/badge/GPT--3.5-LangChain-brightgreen?style=flat)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-TTS-orange?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-VectorSearch-purple?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=flat)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat)
 
 ---
 
-## ⚙️ How It Works
+## 🖼️ Gallery
 
-1. **Web Scraping**
-   - Scraped 100+ pages from the official Systems Limited website
-   - Cleaned and concatenated the content into documents
-   - Embedded using OpenAI + FAISS for vector search
-
-2. **LangChain + LLM**
-   - Integrated LangChain’s `ConversationalRetrievalChain` with GPT-3.5
-   - Enabled multi-turn memory with session history
-
-3. **Voice I/O**
-   - **Input**: Uses `st_audiorec` + Whisper to transcribe user voice
-   - **Output**: ElevenLabs generates natural speech in a custom voice
-
-4. **Frontend**
-   - Built a responsive UI in Streamlit with both text and voice options
+| UI (Voice Interface) | Code & Logic | Company Website Data |
+|----------------------|--------------|-----------------------|
+| <img src="/assets/images/aiva/demo_ui.png" width="250"/> | <img src="/assets/images/aiva/langchain_logic.png" width="250"/> | <img src="/assets/images/aiva/web_scraping.png" width="250"/> |
 
 ---
 
-## 💡 Use Cases
+## 🧠 Lessons Learned
 
-- AI-powered Receptionist for corporate websites  
-- Onboarding assistant for new employees  
-- Internal HR or IT Helpdesk Q&A bot  
-- Custom voice bots for product support or marketing  
+- Seamless voice interaction is possible with the right audio tools (Whisper + ElevenLabs).
+- LangChain’s modular chains make it easy to build multi-step retrieval pipelines.
+- Designing for real-world use cases like onboarding or helpdesk requires domain-specific tuning of prompts and chunking strategies.
 
 ---
 
-## 📁 Learn More
+## 📖 Learn More
 
-- [GitHub Repo](https://github.com/20mup/ai-receptionist)
-- [Recorded Demo](https://drive.google.com/file/d/1JInIiivD3RBrqDqMrg24oT3hcPp_cvXB/view)
+- [📺 Watch the Demo Video](https://drive.google.com/file/d/1JInIiivD3RBrqDqMrg24oT3hcPp_cvXB/view)
+- [🔗 GitHub Repository](https://github.com/20mup/ai-receptionist)
+- [📄 Full Engineering Case Study](/docs/aiva-case-study.md) *(optional — we can write this next if you want)*
+
+---
+
+> _From static FAQs to conversational AI — meet the future of enterprise assistants._ 🤖
