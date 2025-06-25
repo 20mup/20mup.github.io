@@ -9,7 +9,7 @@ skills:
   - Streamlit
   - Web Scraping
   - FAISS
-main-image: /images/aiva_banner.png
+main-image: /images/aiva_banner_fixed.png
 ---
 
 # 🧠 AIVA — AI Voice Assistant for Enterprises
