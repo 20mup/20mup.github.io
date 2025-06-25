@@ -10,7 +10,7 @@ skills:
   - Ultrasonic Sensors
   - Joystick Control
   - Closed-Loop Feedback
-main-image: /images/robot_front.jpg
+main-image: /images/jurassic_banner.png
 ---
 
 # 🦖 Jurassic Rescue Robot
