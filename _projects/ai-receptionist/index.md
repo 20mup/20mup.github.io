@@ -16,7 +16,7 @@ main-image: /images/aiva_hero.jpg
 
 > AIVA (AI Voice Assistant) is a generative AI receptionist that listens, understands, and speaks — built during my internship at Systems Limited, Pakistan’s largest IT company.
 
-<img src="/assets/images/aiva/hero_preview.png" alt="AIVA Interface Preview" width="400"/>
+<img src="/assets/images/aiva_interface.jpg" alt="AIVA Interface Preview" width="400"/>
 
 ---
 
@@ -56,11 +56,9 @@ main-image: /images/aiva_hero.jpg
 
 ---
 
-## 🖼️ Gallery
+## 📺 Demo
 
-| UI (Voice Interface) | Code & Logic | Company Website Data |
-|----------------------|--------------|-----------------------|
-| <img src="/assets/images/aiva/demo_ui.png" width="250"/> | <img src="/assets/images/aiva/langchain_logic.png" width="250"/> | <img src="/assets/images/aiva/web_scraping.png" width="250"/> |
+🎥 [Watch the Recorded Demo](https://drive.google.com/file/d/1JInIiivD3RBrqDqMrg24oT3hcPp_cvXB/view)
 
 ---
 
@@ -74,9 +72,8 @@ main-image: /images/aiva_hero.jpg
 
 ## 📖 Learn More
 
-- [📺 Watch the Demo Video](https://drive.google.com/file/d/1JInIiivD3RBrqDqMrg24oT3hcPp_cvXB/view)
 - [🔗 GitHub Repository](https://github.com/20mup/ai-receptionist)
-- [📄 Full Engineering Case Study](/docs/aiva-case-study.md) *(optional — we can write this next if you want)*
+- [📄 Full Engineering Case Study](/docs/aiva-case-study.md)
 
 ---
 
