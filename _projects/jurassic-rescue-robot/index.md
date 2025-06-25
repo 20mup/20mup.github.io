@@ -65,9 +65,15 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 
 ## 📸 Gallery
 
-{% include image-gallery.html images="images/robot_side.jpg,images/robot_back.jpg" height="250" %}
-{% include image-gallery.html images="images/award_robot.jpg,images/electrical_schematic.png,images/gameboard_middle.webp" height="250" %}
-<span style="font-size: 12px">Front/Side/Back views of robot during testing and gameplay.</span>
+| Front | Side | Back |
+|-------|------|------|
+| <img src="/images/robot_front.jpg" width="200"/> | <img src="/images/robot_side.jpg" width="200"/> | <img src="/images/robot_back.jpg" width="200"/> |
+
+| Award | Circuit | Gameboard |
+|-------|---------|-----------|
+| <img src="/images/award_robot.jpg" width="200"/> | <img src="/images/electrical_schematic.png" width="200"/> | <img src="/images/gameboard_middle.webp" width="200"/> |
+
+<span style="font-size: 12px">Front / Side / Back views of robot and electronics during testing and gameplay</span>
 
 ---
 
