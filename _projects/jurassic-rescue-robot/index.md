@@ -17,7 +17,7 @@ main-image: /images/robot_front.jpg
 
 > A semi-autonomous Jurassic-themed robot designed for real-world rescue challenges under strict hardware constraints.
 
-![Robot Demo](/assets/images/jurassic-rescue/award_robot.jpg)
+<img src="images/robot_front.jpg" alt="Robot Front View" width="600"/>
 
 ---
 
@@ -65,15 +65,9 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 
 ## 📸 Gallery
 
-<p align="center">
-  <img src="/assets/images/jurassic-rescue/robot_front.jpg" alt="Front" width="200"/>
-  <img src="/assets/images/jurassic-rescue/robot_side.jpg" alt="Side" width="200"/>
-  <img src="/assets/images/jurassic-rescue/robot_back.jpg" alt="Back" width="200"/>
-  <br>
-  <img src="/assets/images/jurassic-rescue/award_robot.jpg" alt="Award" width="200"/>
-  <img src="/assets/images/jurassic-rescue/electrical_schematic.png" alt="Schematic" width="200" style="transform: rotate(90deg)"/>
-  <img src="/assets/images/jurassic-rescue/gameboard_middle.webp" alt="Gameplay" width="200" style="transform: rotate(90deg)"/>
-</p>
+{% include image-gallery.html images="images/robot_side.jpg,images/robot_back.jpg" height="250" %}
+{% include image-gallery.html images="images/award_robot.jpg,images/electrical_schematic.png,images/gameboard_middle.webp" height="250" %}
+<span style="font-size: 12px">Front/Side/Back views of robot during testing and gameplay.</span>
 
 ---
 
