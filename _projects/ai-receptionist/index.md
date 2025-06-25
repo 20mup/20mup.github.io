@@ -9,13 +9,13 @@ skills:
   - Streamlit
   - Web Scraping
   - FAISS
-main-image: /images/aiva_hero.jpg
+main-image: /assests/images/avia/aiva_banner.png
 ---
 
 # 🧠 AIVA — AI Voice Assistant for Enterprises
 
 > AIVA (AI Voice Assistant) is a generative AI receptionist that listens, understands, and speaks — built during my internship at Systems Limited, Pakistan’s largest IT company.
-<img src="/assets/images/aiva_chat.png" alt="AIVA Interface Preview" width="650"/>
+<img src="/assets/images/avia/aiva_chat.png" alt="AIVA Interface Preview" width="650"/>
 
 ---
 
