@@ -9,7 +9,7 @@ skills:
   - Tkinter
   - Audio Processing
   - GUI Development
-main-image: /assets/images/notebuddy/hero.png
+main-image: /images/notebuddy_banner.png
 ---
 
 # 🦷 NoteBuddy – AI Dental Note Assistant
