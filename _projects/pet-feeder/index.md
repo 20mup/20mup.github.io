@@ -17,13 +17,7 @@ main-image: /images/pet_feeder_banner.png
 
 > A full-stack smart pet feeding system with custom hardware, iOS app control, and Siri voice integration.
 
-<img src="/assets/images/pet-feeder/dog_feeder.jpg" alt="Main App Menu" width="400"/>
-
----
-
-## 🎥 Demo
-
-[▶️ Watch Demo Video](https://your-demo-link.com) *(Replace with actual link)*
+<img src="/assets/images/pet-feeder/dog_feeder.jpg" alt="Main App Menu" width="800"/>
 
 ---
 
@@ -37,6 +31,12 @@ The system integrates embedded hardware with a real-time Firebase backend and a 
 
 **Problem:** Busy pet owners often forget or struggle to keep consistent feeding schedules.  
 **Solution:** An app-connected IoT feeder that allows for **remote**, **scheduled**, and **voice-triggered** feeding — even while away.
+
+---
+
+## 🎥 Demo
+
+[▶️ Watch Demo Video](https://your-demo-link.com) *(Replace with actual link)*
 
 ---
 
