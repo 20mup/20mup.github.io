@@ -56,9 +56,9 @@ main-image: /images/aiva_banner_fixed.png
 
 ---
 
-## 📺 Demo
+## 🎥 Demo
 
-🎥 [Watch the Recorded Demo](https://drive.google.com/file/d/1JInIiivD3RBrqDqMrg24oT3hcPp_cvXB/view)
+{% include youtube-video.html id="_fyLJ0vlOlo" autoplay="false" %}
 
 ---
 
