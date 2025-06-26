@@ -67,6 +67,16 @@ skills:
     - Canva
     - OBS Studio
 
+  - category: Soft Skills
+    tools:
+      - Technical Communication
+      - Team Collaboration
+      - Public Speaking
+      - Agile Project Management
+      - UX Thinking
+      - Problem Solving
+      - Cross-Disciplinary Leadership
+
 # Contact Form
 formspree-key: https://formspree.io/f/{YOUR-KEY-HERE}
 
