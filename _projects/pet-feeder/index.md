@@ -1,98 +1,98 @@
 ---
 layout: post
 title: Autonomous Pet Feeder
-description: Smart IoT-based pet feeder with scheduled dispensing and Siri voice control.
+description: A smart pet feeding system with iOS app, hardware automation, and Siri integration.
 skills:
-  - Arduino
-  - IoT Automation
-  - Servo Control
-  - Embedded C++
+  - IoT
+  - Embedded Systems
+  - Swift (iOS)
+  - Firebase
   - React Native
-  - Real-Time Clock (RTC)
-  - Siri Shortcuts Integration
-main-image: /assets/images/autonomous-feeder/feeder_front.jpg
+  - Arduino
+  - Voice Assistants
+main-image: /assets/images/pet-feeder/welcome_page.png
 ---
 
-# 🐾 Autonomous Pet Feeder
+# 🐶 Autonomous Pet Feeder
 
-> A smart, voice-controlled pet feeder that automatically dispenses food at scheduled times — and responds to Siri when you say “feed my dog.”
+> A full-stack smart pet feeding system with custom hardware, iOS app control, and Siri voice integration.
 
-<img src="/assets/images/autonomous-feeder/feeder_front.jpg" alt="Autonomous Pet Feeder" width="400"/>
+<img src="/assets/images/pet-feeder/main_menu.png" alt="Main App Menu" width="400"/>
 
 ---
 
 ## 🚀 TL;DR  
-Built for busy pet owners, this project automates scheduled feedings and allows voice-triggered dispensing using Siri Shortcuts — combining embedded control, mobile UX, and smart home integration.
+I built an **automated pet feeder** that dispenses food either via a **mobile app** or by saying **“Hey Siri, feed my dog.”**  
+The system integrates embedded hardware with a real-time Firebase backend and a custom-designed iOS app made with React Native.
 
 ---
 
 ## 🧩 Problem / 💡 Solution
 
-**Problem:** Pet owners can't always feed their pets on time, especially when away.  
-**Solution:** A fully autonomous feeder with:
-- Built-in schedule via RTC
-- Voice-activated manual feed via Siri
-- Mobile app control for remote use
+**Problem:** Busy pet owners often forget or struggle to keep consistent feeding schedules.  
+**Solution:** An app-connected IoT feeder that allows for **remote**, **scheduled**, and **voice-triggered** feeding — even while away.
 
 ---
 
 ## ✨ Key Features
 
-- 🕒 **Scheduled feedings** with real-time clock accuracy  
-- 📱 **Mobile control** using a custom React Native app  
-- 🎙️ **Siri voice command**: say “Feed my dog” to trigger manual feeding  
-- ⚙️ **Servo-powered mechanism** for portion-controlled dispensing  
-- 💡 **LCD display** shows time, feed status, and battery info  
-- 🔋 Dual power support: USB or battery
+- ✅ iOS app with playful, pet-friendly UI (built in React Native)
+- ✅ Real-time food dispensing via Firebase + Arduino
+- ✅ Voice command trigger using Apple Siri Shortcuts
+- ✅ Tracks food storage and pet profiles
+- ✅ Manual override through physical button
+
+---
+
+## 📱 App Screens
+
+| Welcome | Main Menu | Pets |
+|---------|-----------|------|
+| ![](/assets/images/pet-feeder/welcome_page.png){: width="200"} | ![](/assets/images/pet-feeder/main_menu.png){: width="200"} | ![](/assets/images/pet-feeder/view_pets.png){: width="200"} |
+
+| Storage | 40% Full | Profile |
+|---------|-----------|---------|
+| ![](/assets/images/pet-feeder/food_check.png){: width="200"} | ![](/assets/images/pet-feeder/food_checked.png){: width="200"} | ![](/assets/images/pet-feeder/pet_profile.png){: width="200"} |
+
+| Siri Trigger | Dispensed Notification |
+|--------------|------------------------|
+| ![](/assets/images/pet-feeder/siri_fed.png){: width="200"} | ![](/assets/images/pet-feeder/food_dispensed.png){: width="200"} |
+
+---
+
+## 🧠 How It Works
+
+1. **App Interface**  
+   - Built with React Native, the app allows users to view pets, check storage, and trigger feeding.
+
+2. **Backend & Communication**  
+   - Firebase handles real-time updates. The microcontroller constantly listens for signal changes via the Realtime Database.
+
+3. **Hardware & Feeding Mechanism**  
+   - An Arduino controls a stepper motor that dispenses food. Manual overrides are supported with a physical button.
+
+4. **Siri Integration**  
+   - Using iOS Shortcuts, I linked a voice command to update Firebase, which then instantly triggers feeding from the hardware side.
 
 ---
 
 ## 💻 Tech Stack & Tools
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![React Native](https://img.shields.io/badge/React--Native-61DAFB?style=flat&logo=react&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT-Automation-green?style=flat)
-![Siri](https://img.shields.io/badge/Siri--Shortcuts-Workflow-purple?style=flat)
-
----
-
-## 📺 Demo
-
-🎥 Demo coming soon *(insert link or video here when ready)*
-
----
-
-## ⚙️ How It Works
-
-1. **Scheduled Feeding**
-   - RTC module tracks real time
-   - Servo rotates at set hours to dispense a measured food portion
-
-2. **Manual Control**
-   - React Native app allows tap-to-feed control over Bluetooth/Wi-Fi
-   - LCD screen updates status instantly
-
-3. **Siri Integration**
-   - Siri Shortcut sends a signal to the feeder to trigger manual dispensing
-   - Voice-activated command: “Feed my dog”
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Siri](https://img.shields.io/badge/Siri--Shortcuts-black?style=flat)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 
 ---
 
 ## 🧠 Lessons Learned
 
-- RTCs offer reliable timekeeping, even through resets
-- Voice control adds a whole new layer of convenience
-- Bluetooth timing and servo calibration require careful debugging
+- Firebase's real-time sync is perfect for hardware triggers but needs debounce logic to avoid multiple feeds.
+- Integrating with Siri Shortcuts was surprisingly seamless — but requires careful setup of iOS intents.
+- Designing an intuitive pet UI involved iterating through 5+ background + button combinations.
 
 ---
 
-## 📖 Learn More
+> _Built for Milo — tested and approved._ 🐾
 
-- [🔗 GitHub Repository](https://github.com/20mup/AutonomousPetFeeder)
-- [📱 App UI Preview](/assets/images/autonomous-feeder/app_preview.jpg)
-- [📄 Engineering Case Study](/docs/autonomous-feeder-case-study.md)
-
----
-
-> _“Feed your pet with a word — literally.”_ 🐕🎤
