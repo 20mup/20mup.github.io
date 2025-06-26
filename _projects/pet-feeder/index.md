@@ -36,7 +36,7 @@ The system integrates embedded hardware with a real-time Firebase backend and a 
 
 ## 🎥 Demo
 
-[▶️ Watch Demo Video](https://your-demo-link.com) *(Replace with actual link)*
+{% include youtube-video.html id="GA_FPtHsQM4" autoplay="false" %}
 
 ---
 
