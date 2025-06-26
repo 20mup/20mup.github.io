@@ -21,6 +21,12 @@ main-image: /images/pet_feeder_banner.png
 
 ---
 
+## 🎥 Demo
+
+[▶️ Watch Demo Video](https://your-demo-link.com) *(Replace with actual link)*
+
+---
+
 ## 🚀 TL;DR  
 I built an **automated pet feeder** that dispenses food either via a **mobile app** or by saying **“Hey Siri, feed my dog.”**  
 The system integrates embedded hardware with a real-time Firebase backend and a custom-designed iOS app made with React Native.
@@ -36,11 +42,11 @@ The system integrates embedded hardware with a real-time Firebase backend and a 
 
 ## ✨ Key Features
 
-- ✅ iOS app with playful, pet-friendly UI (built in React Native)
-- ✅ Real-time food dispensing via Firebase + Arduino
-- ✅ Voice command trigger using Apple Siri Shortcuts
-- ✅ Tracks food storage and pet profiles
-- ✅ Manual override through physical button
+- ✅ iOS app with playful, pet-friendly UI (built in React Native)  
+- ✅ Real-time food dispensing via Firebase + Arduino  
+- ✅ Voice command trigger using Apple Siri Shortcuts  
+- ✅ Tracks food storage and pet profiles  
+- ✅ Manual override through physical button  
 
 ---
 
@@ -88,11 +94,10 @@ The system integrates embedded hardware with a real-time Firebase backend and a 
 
 ## 🧠 Lessons Learned
 
-- Firebase's real-time sync is perfect for hardware triggers but needs debounce logic to avoid multiple feeds.
-- Integrating with Siri Shortcuts was surprisingly seamless — but requires careful setup of iOS intents.
+- Firebase's real-time sync is perfect for hardware triggers but needs debounce logic to avoid multiple feeds.  
+- Integrating with Siri Shortcuts was surprisingly seamless — but requires careful setup of iOS intents.  
 - Designing an intuitive pet UI involved iterating through 5+ background + button combinations.
 
 ---
 
 > _Built for Milo — tested and approved._ 🐾
-
