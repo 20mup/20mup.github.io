@@ -25,10 +25,9 @@ NoteBuddy streamlines the dental note-taking process by recording consultations,
 
 ---
 
-## 📺 Demo
+## 🎥 Demo
 
-🎥 [Watch the Demo Video](https://your-demo-link.com)  
-*(Replace with real link if available)*
+{% include youtube-video.html id="LLg4wNHHI30" autoplay="false" %}
 
 ---
 
