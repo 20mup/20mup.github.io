@@ -10,7 +10,7 @@ skills:
   - React Native
   - Arduino
   - Voice Assistants
-main-image: /assets/images/pet-feeder/pet_feeder_banner.png
+main-image: /images/pet_feeder_banner.png
 ---
 
 # 🐶 Autonomous Pet Feeder
