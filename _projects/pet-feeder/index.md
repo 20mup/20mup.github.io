@@ -10,14 +10,14 @@ skills:
   - React Native
   - Arduino
   - Voice Assistants
-main-image: /assets/images/pet-feeder/welcome_page.png
+main-image: /assets/images/pet-feeder/pet_feeder_banner.png
 ---
 
 # 🐶 Autonomous Pet Feeder
 
 > A full-stack smart pet feeding system with custom hardware, iOS app control, and Siri voice integration.
 
-<img src="/assets/images/pet-feeder/main_menu.png" alt="Main App Menu" width="400"/>
+<img src="/assets/images/pet-feeder/dog_feeder.png" alt="Main App Menu" width="400"/>
 
 ---
 
