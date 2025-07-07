@@ -92,11 +92,24 @@ The system integrates embedded hardware with a real-time Firebase backend and a 
 
 ---
 
+## 🤝 Team Members
+
+- **Mousa Pirzada** – Project Lead: iOS app development, hardware-software integration, Firebase backend, Siri voice control, and overall system design.
+- **Mustafa Hasan** – Electronics: Wiring, circuit design, Arduino motor control, and hardware troubleshooting.
+- **Raihan Ahmed** – Hardware Fabrication: 3D modeling, 3D printing of the feeder mechanism, and structural assembly.
+
+---
+
 ## 🧠 Lessons Learned
 
 - Firebase's real-time sync is perfect for hardware triggers but needs debounce logic to avoid multiple feeds.  
 - Integrating with Siri Shortcuts was surprisingly seamless — but requires careful setup of iOS intents.  
 - Designing an intuitive pet UI involved iterating through 5+ background + button combinations.
+
+---
+
+## 🏛️ Used In  
+MREN 328: Signals and Systems, Queen’s University, Kingston
 
 ---
 
