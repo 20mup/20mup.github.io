@@ -100,16 +100,16 @@ The system integrates embedded hardware with a real-time Firebase backend and a 
 
 ---
 
+## 🏛️ Used In  
+MREN 328: Signals and Systems, Queen’s University, Kingston
+
+---
+
 ## 🧠 Lessons Learned
 
 - Firebase's real-time sync is perfect for hardware triggers but needs debounce logic to avoid multiple feeds.  
 - Integrating with Siri Shortcuts was surprisingly seamless — but requires careful setup of iOS intents.  
 - Designing an intuitive pet UI involved iterating through 5+ background + button combinations.
-
----
-
-## 🏛️ Used In  
-MREN 328: Signals and Systems, Queen’s University, Kingston
 
 ---
 
