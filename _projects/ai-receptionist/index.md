@@ -62,6 +62,22 @@ main-image: /images/aiva_banner_fixed.png
 
 ---
 
+## 🧠 How It Works
+
+1. **Voice Input Capture**  
+   - Uses Whisper to convert user speech into text within a Streamlit interface.
+
+2. **Query Processing**  
+   - A LangChain-powered chatbot parses the input, then searches a FAISS vector database built from web-scraped business content.
+
+3. **Response Generation**  
+   - The LLM returns a helpful, conversational response formatted as a receptionist reply.
+
+4. **Voice Output**  
+   - ElevenLabs reads the response aloud using natural, expressive AI-generated speech.
+
+---
+
 ## 🧠 Lessons Learned
 
 - Seamless voice interaction is possible with the right audio tools (Whisper + ElevenLabs).
