@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NoteBuddy – AI Dental Note Assistant
-description: A voice-activated desktop app that transcribes and formats dental notes using Whisper and GPT.
+description: AI-powered voice assistant that transcribes and formats patient consultations into ready-to-use dental records.
 skills:
   - Python
   - Whisper
@@ -14,7 +14,7 @@ main-image: /images/notebuddy_banner.png
 
 # 🦷 NoteBuddy – AI Dental Note Assistant
 
-> A voice-activated desktop app that transcribes patient visits and formats dental notes using AI — built for efficiency, simplicity, and real-world dental workflows.
+> Meet **NoteBuddy** — your AI-powered dental assistant. Record patient visits, transcribe with Whisper, and get structured dental notes in seconds. Built for speed, privacy, and real-world clinic workflows.
 
 <img src="/assets/images/notebuddy/interface.png" alt="NoteBuddy UI Preview" width="400"/>
 
