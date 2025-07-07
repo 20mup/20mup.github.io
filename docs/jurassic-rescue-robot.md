@@ -1,9 +1,3 @@
----
-layout: page
-title: Jurassic Rescue Robot — Case Study
-description: In-depth engineering breakdown of the Tronassic Park competition robot built for MREN 303.
----
-
 # 🦖 Jurassic Rescue Robot — Case Study
 
 > **A semester-long, fully custom robotics build for Queen’s University's MREN 303 design course.**  
