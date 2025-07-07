@@ -60,18 +60,17 @@ NoteBuddy streamlines the dental note-taking process by recording consultations,
 
 ## 🧠 How It Works
 
-1. **Click “Start Recording”** to capture consultation audio  
-2. **Stop Recording** saves a `.wav` file  
-3. **Click “Transcribe + Format”** to:  
-   - Transcribe audio using Whisper  
-   - Format output into fields like:  
-     - Patient Number  
-     - Chief Complaint  
-     - Diagnosis  
-     - Treatment Plan  
-     - Procedure  
-     - Post-Op  
-4. **Click “Copy to Clipboard”** — paste directly into Dentrix or any EHR
+1. **Real-Time Listening**  
+   - Uses Whisper to transcribe voice notes during patient consultations or treatment discussions.
+
+2. **Context Parsing**  
+   - A context-aware LLM processes and categorizes notes into sections (e.g., diagnosis, symptoms, instructions).
+
+3. **Output Formatting**  
+   - Outputs structured, copy-paste-ready dental notes aligned to clinical formats.
+
+4. **Web Interface**  
+   - Users interact via a streamlined frontend to record and review notes with one click.
 
 ---
 
