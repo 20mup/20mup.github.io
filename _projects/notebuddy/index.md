@@ -32,12 +32,6 @@ NoteBuddy streamlines the dental note-taking process by recording consultations,
 
 ---
 
-## 🎥 Demo
-
-{% include youtube-video.html id="LLg4wNHHI30" autoplay="false" %}
-
----
-
 ## ✨ Key Features
 
 - In-app voice recording of patient visits  
@@ -55,6 +49,12 @@ NoteBuddy streamlines the dental note-taking process by recording consultations,
 ![GPT-3.5](https://img.shields.io/badge/GPT--3.5-OpenAI-blue?style=flat)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-yellow?style=flat)
 ![Audio](https://img.shields.io/badge/Audio-WAV-red?style=flat)
+
+---
+
+## 🎥 Demo
+
+{% include youtube-video.html id="LLg4wNHHI30" autoplay="false" %}
 
 ---
 
