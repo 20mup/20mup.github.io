@@ -25,12 +25,6 @@ NoteBuddy streamlines the dental note-taking process by recording consultations,
 
 ---
 
-## 🎥 Demo
-
-{% include youtube-video.html id="LLg4wNHHI30" autoplay="false" %}
-
----
-
 ## 🧩 Problem / 💡 Solution
 
 **Problem:** Manual dental note entry is time-consuming and repetitive.  
@@ -45,6 +39,12 @@ NoteBuddy streamlines the dental note-taking process by recording consultations,
 - GPT-3.5 formats transcription into dental fields  
 - One-click copy-to-clipboard for easy EHR input  
 - No browser needed — clean Tkinter GUI
+
+---
+
+## 🎥 Demo
+
+{% include youtube-video.html id="LLg4wNHHI30" autoplay="false" %}
 
 ---
 
