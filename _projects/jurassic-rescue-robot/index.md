@@ -30,8 +30,8 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 
 **Problem:** Navigate a cluttered, constraint-heavy board and retrieve a figure with minimal resources.  
 **Solution:** A two-mode robot:  
-- Autonomous navigation to press a gate-opening button.  
-- Manual joystick control to retrieve a rescue object via clamp.
+- Use ultrasonic sensors for autonomous alignment and button pressing  
+- Switch to manual control with joystick to grab and retrieve the figure
 
 ---
 
@@ -77,16 +77,16 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 ## 🧠 How It Works
 
 1. **Autonomous Navigation**  
-   - Onboard ultrasonic sensors guide the robot toward a gate button in autonomous mode, using a simple alignment and trigger sequence.
+   - Ultrasonic sensors detect distance and alignment to the gate button.
 
 2. **Manual Rescue**  
-   - Once the gate is open, the robot switches to joystick mode for human-guided object retrieval with a mechanical clamp.
+   - Joystick switches control mode, allowing human-guided object retrieval using a clamp mechanism.
 
 3. **Motion Control**  
-   - Raspberry Pi Pico and Arduino combo manages motor control, encoder feedback, and servo actuation.
+   - DC encoders with closed-loop feedback ensure precision. The Pico W and Arduino handle tasks in parallel.
 
-4. **Mechanical Design**  
-   - A custom laser-cut + 3D-printed chassis combines durability and modularity for rapid prototyping and tuning.
+4. **Chassis Design**  
+   - Built from laser-cut wood and 3D-printed mounts, the chassis was optimized for compact maneuverability and easy part swaps.
 
 ---
 
@@ -104,9 +104,9 @@ MREN 303: Mechatronics Design, Queen’s University, Kingston
 
 ## 🧠 Lessons Learned
 
-- Precision CAD design up front reduces late-stage hardware clashes.
-- Iterative autonomous testing is critical on actual competition surface.
-- Voltage divider design is crucial when mixing logic levels across boards.
+- **Precise tolerances** matter — wobbly motors ruin alignment
+- **Debugging on real surfaces** is essential for autonomous success
+- **Voltage divider math** is critical when working across platforms
 
 ---
 
