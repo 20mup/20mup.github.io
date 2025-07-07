@@ -5,7 +5,7 @@
 
 ## 🔍 Project Background
 
-In Summer 2024, I joined **Systems Limited**, Pakistan’s largest IT company, as an intern in the **Cloud & Infrastructure Division**. My internship was initially structured as a traditional corporate rotation — visiting departments, learning what they do, and preparing a final presentation.
+In Summer 2023, I joined **Systems Limited**, Pakistan’s largest IT company, as an intern in the **Cloud & Infrastructure Division**. My internship was initially structured as a traditional corporate rotation — visiting departments, learning what they do, and preparing a final presentation.
 
 I completed all of that in just under a week.
 
