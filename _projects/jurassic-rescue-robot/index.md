@@ -74,6 +74,22 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 
 ---
 
+## 🧠 How It Works
+
+1. **Autonomous Navigation**  
+   - Onboard ultrasonic sensors guide the robot toward a gate button in autonomous mode, using a simple alignment and trigger sequence.
+
+2. **Manual Rescue**  
+   - Once the gate is open, the robot switches to joystick mode for human-guided object retrieval with a mechanical clamp.
+
+3. **Motion Control**  
+   - Raspberry Pi Pico and Arduino combo manages motor control, encoder feedback, and servo actuation.
+
+4. **Mechanical Design**  
+   - A custom laser-cut + 3D-printed chassis combines durability and modularity for rapid prototyping and tuning.
+
+---
+
 ## 🤝 Team Members
 
 - **Mousa Pirzada** – Lead Programmer: Pico W scripting, encoder integration, closed-loop control, motor tuning.
