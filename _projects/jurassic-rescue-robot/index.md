@@ -49,7 +49,6 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 - Closed-loop feedback from DC encoders for motor precision.
 - Fully custom laser-cut and 3D-printed mechanical design.
 - Energy-efficient power draw management with voltage dividers.
-
 ---
 
 ## 💻 Tech Stack & Tools
