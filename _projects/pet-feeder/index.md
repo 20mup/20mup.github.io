@@ -50,6 +50,16 @@ The system integrates embedded hardware with a real-time Firebase backend and a 
 
 ---
 
+## 💻 Tech Stack & Tools
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Siri](https://img.shields.io/badge/Siri--Shortcuts-black?style=flat)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
+---
+
 ## 📱 App Screens
 
 | Welcome | Main Menu | Pets |
@@ -79,16 +89,6 @@ The system integrates embedded hardware with a real-time Firebase backend and a 
 
 4. **Siri Integration**  
    - Using iOS Shortcuts, I linked a voice command to update Firebase, which then instantly triggers feeding from the hardware side.
-
----
-
-## 💻 Tech Stack & Tools
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Siri](https://img.shields.io/badge/Siri--Shortcuts-black?style=flat)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 
 ---
 
