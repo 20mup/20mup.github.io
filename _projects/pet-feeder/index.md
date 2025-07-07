@@ -34,12 +34,6 @@ The system integrates embedded hardware with a real-time Firebase backend and a 
 
 ---
 
-## 🎥 Demo
-
-{% include youtube-video.html id="GA_FPtHsQM4" autoplay="false" %}
-
----
-
 ## ✨ Key Features
 
 - ✅ iOS app with playful, pet-friendly UI (built in React Native)  
@@ -57,6 +51,12 @@ The system integrates embedded hardware with a real-time Firebase backend and a 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Siri](https://img.shields.io/badge/Siri--Shortcuts-black?style=flat)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
+---
+
+## 🎥 Demo
+
+{% include youtube-video.html id="GA_FPtHsQM4" autoplay="false" %}
 
 ---
 
