@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AIVA — AI Voice Assistant for Enterprises
-description: Voice-interactive AI receptionist built with Whisper, LangChain, and ElevenLabs to answer company questions in real-time.
+description: Meet AIVA — an intelligent AI receptionist that listens, understands, and responds like a real human. Built during my internship at Systems Limited, Pakistan’s largest IT firm.
 skills:
   - Whisper (STT)
   - GPT-3.5 + LangChain
@@ -14,14 +14,14 @@ main-image: /images/aiva_banner_fixed.png
 
 # 🧠 AIVA — AI Voice Assistant for Enterprises
 
-> AIVA (AI Voice Assistant) is a generative AI receptionist that listens, understands, and speaks — built during my internship at Systems Limited, Pakistan’s largest IT company.
+> Imagine walking into an office and being greeted by an AI that listens, thinks, and speaks like a real receptionist. That’s AIVA.
 
 <img src="/assets/images/aiva/aiva_chat.png" alt="AIVA Interface Preview" width="650"/>
 
 ---
 
 ## 🚀 TL;DR  
-**AIVA** is a voice-based receptionist trained on 100+ real company webpages. You ask a question out loud — it listens via Whisper, searches company info with LangChain + FAISS, and responds using ElevenLabs in a natural voice.
+**AIVA** is a voice-based receptionist trained on 100+ internal company webpages. Just ask a question — it listens via Whisper, finds the answer with LangChain + FAISS, and replies using ElevenLabs in natural, human-like speech.
 
 ---
 
@@ -37,7 +37,7 @@ main-image: /images/aiva_banner_fixed.png
 
 ## ✨ Key Features
 
-- 🎙️ Voice-to-voice interaction (talk to AIVA, it talks back)
+- 🎙️ Voice-to-voice interaction (Talk to AIVA, it talks back)
 - 🔍 Knowledge retrieval from 100+ scraped webpages
 - 🧠 GPT-3.5 via LangChain with memory for follow-up context
 - 💬 Web interface with both voice and text input (Streamlit)
