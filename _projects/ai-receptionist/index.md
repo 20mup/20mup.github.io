@@ -35,6 +35,12 @@ main-image: /images/aiva_banner_fixed.png
 
 ---
 
+## 🎥 Demo
+
+{% include youtube-video.html id="_fyLJ0vlOlo" autoplay="false" %}
+
+---
+
 ## ✨ Key Features
 
 - 🎙️ Voice-to-voice interaction (talk to AIVA, it talks back)
@@ -53,12 +59,6 @@ main-image: /images/aiva_banner_fixed.png
 ![FAISS](https://img.shields.io/badge/FAISS-VectorSearch-purple?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=flat)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat)
-
----
-
-## 🎥 Demo
-
-{% include youtube-video.html id="_fyLJ0vlOlo" autoplay="false" %}
 
 ---
 
