@@ -97,16 +97,16 @@ A hybrid robot built for Queen’s University’s **Tronassic Park Competition**
 
 ---
 
+## 🏛️ Used In  
+MREN 303: Mechatronics Design, Queen’s University, Kingston
+
+---
+
 ## 🧠 Lessons Learned
 
 - Precision CAD design up front reduces late-stage hardware clashes.
 - Iterative autonomous testing is critical on actual competition surface.
 - Voltage divider design is crucial when mixing logic levels across boards.
-
----
-
-## 🏛️ Used In  
-MREN 303: Mechatronics Design, Queen’s University, Kingston
 
 ---
 
