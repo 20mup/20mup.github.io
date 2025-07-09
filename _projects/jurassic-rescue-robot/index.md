@@ -112,7 +112,7 @@ MREN 303: Mechatronics Design, Queen’s University, Kingston
 
 ## 📖 Learn More
 
-- [🔗 GitHub Repository](https://github.com/20mup/JurassicRescueRobot)
+- [🔗 GitHub Repository](https://github.com/20mup/jurassic-rescue-robot)
 - [📂 CAD Files & Build Details](https://github.com/20mup/JurassicRescueRobot/tree/main/design)
 - [📄 Full Engineering Case Study](/docs/jurassic-rescue-robot.md)
 
