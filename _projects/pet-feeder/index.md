@@ -115,7 +115,7 @@ MREN 328: Signals and Systems, Queen’s University, Kingston
 
 ## 📖 Learn More
 
-- [🔗 GitHub Repository](https://github.com/20mup/AutonomousPetFeeder)  
+- [🔗 GitHub Repository](https://github.com/20mup/autonomous-pet-feeder)  
 - [📱 iOS App Screenshots](/assets/images/pet-feeder/)  
 - [📄 Full Engineering Case Study](/docs/pet-feeder-case-study.md)  
 
