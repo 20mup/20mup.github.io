@@ -2,6 +2,7 @@
 layout: post
 title: Autonomous Pet Feeder – iOS App Screenshots
 description: Interface walkthrough of the custom iOS app used to control and monitor the smart pet feeder.
+main-image: /images/pet_feeder_banner.png
 ---
 
 # 📱 iOS App Screenshots – Autonomous Pet Feeder
@@ -59,7 +60,7 @@ description: Interface walkthrough of the custom iOS app used to control and mon
 
 ## 🔙 Return
 
-[← Back to Portfolio](/_projects/pet-feeder/index.md)
+[← Back to Portfolio](/projects/pet-feeder/index.md)
 
 ---
 > _Swipe. Tap. Feed. All from your phone._
