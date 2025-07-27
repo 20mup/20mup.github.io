@@ -59,7 +59,7 @@ description: Interface walkthrough of the custom iOS app used to control and mon
 
 ## 🔙 Return
 
-[← Back to Main Case Study](/projects/autonomous-pet-feeder)
+[← Back to Portfolio](/_projects/pet-feeder/index.md)
 
 ---
 > _Swipe. Tap. Feed. All from your phone._
