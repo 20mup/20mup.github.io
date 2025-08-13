@@ -98,7 +98,7 @@ detailed.sort((a, b) => a.missingCount - b.missingCount);
 ## 📖 Links
 
 - **Live Demo:** YOUR_DEMO_URL
-- **Source:** https://github.com/YOUR-USERNAME/pantry-recipes
+- **Source:** https://github.com/20mup/pantry-recipes
 
 ---
 
