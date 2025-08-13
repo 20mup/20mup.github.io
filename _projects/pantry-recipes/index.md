@@ -9,14 +9,14 @@ skills:
   - Local Storage
   - UI/UX Design
   - canvas-confetti
-main-image: /images/pantry/pantry_banner.jpg
+main-image: /assets/images/pantry-recipes/pantry_banner.jpg
 ---
 
 # 🥘 Pantry Recipes — Smart Cooking with What You Have
 
 > Turn whatever’s in your pantry into dinner — no endless scrolling, no wasted groceries.
 
-<img src="/assets/images/pantry/dark-mode-pantry.jpg" alt="Pantry Recipes – dark mode hero and results" width="860"/>
+<img src="/assets/images/pantry-recipes/dark-mode-pantry.jpg" alt="Pantry Recipes – dark mode hero and results" width="860"/>
 
 ---
 
@@ -33,7 +33,7 @@ main-image: /images/pantry/pantry_banner.jpg
 - Clearly shows **what’s missing** (and how many)
 - Lets you **one-click add** missing items to a **shopping list**
 
-<img src="/assets/images/pantry/light-mode-pantry.jpg" alt="Pantry Recipes – light mode hero and results" width="860"/>
+<img src="/assets/images/pantry-recipes/light-mode-pantry.jpg" alt="Pantry Recipes – light mode hero and results" width="860"/>
 
 ---
 
@@ -47,7 +47,7 @@ main-image: /images/pantry/pantry_banner.jpg
 - 🌓 **Dark/espresso mode** toggle, persisted
 - 🎉 **Delight details**: hover elevation, image overlays, confetti on clear
 
-<img src="/assets/images/pantry/detailed-pantry.jpg" alt="Recipe detail modal with ingredients and steps" width="860"/>
+<img src="/assets/images/pantry-recipes/detailed-pantry.jpg" alt="Recipe detail modal with ingredients and steps" width="860"/>
 
 ---
 
@@ -75,8 +75,8 @@ main-image: /images/pantry/pantry_banner.jpg
 4. **Shop** — Add missing items to the **Shopping List Drawer**; check off or copy as text; list persists across refreshes.  
 5. **Save** — Keep favorites in a **Saved** carousel for quick access later.
 
-<img src="/assets/images/pantry/saved-pantry.jpg" alt="Saved recipes carousel" width="860"/>
-<img src="/assets/images/pantry/shopping-list-pantry.jpg" alt="Shopping list drawer with missing items" width="420"/>
+<img src="/assets/images/pantry-recipes/saved-pantry.jpg" alt="Saved recipes carousel" width="860"/>
+<img src="/assets/images/pantry-recipes/shopping-list-pantry.jpg" alt="Shopping list drawer with missing items" width="420"/>
 
 ---
 
