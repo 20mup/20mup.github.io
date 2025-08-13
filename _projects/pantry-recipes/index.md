@@ -9,7 +9,7 @@ skills:
   - Local Storage
   - UI/UX Design
   - canvas-confetti
-main-image: images/pantry_banner.jpg
+main-image: /images/pantry_banner.jpg
 ---
 
 # 🥘 Pantry Recipes — Smart Cooking with What You Have
